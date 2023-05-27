@@ -1,10 +1,10 @@
 # PHP-MVC
-Applied MVC on simple registration and login page  
+### Applied MVC on simple registration and login page  
 
 Model: 
-  -dbh.class.php
-  -login.class.php
-  -signup.class.php
+  ### -dbh.class.php
+  ### -login.class.php
+  ### -signup.class.php
 
  Controller:
    -logincontr.class.php
